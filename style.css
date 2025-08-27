@@ -7,7 +7,7 @@ body {
   background-position: center; /* center the image */
   background-repeat: no-repeat; /* prevent tiling */
   margin: 0;  /* remove default body margin */
-  height: 230vh; /* ensure body takes full viewport height */
+  height: 250vh; /* ensure body takes full viewport height */
 
    font-family: sans-serif;
 }

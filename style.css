@@ -47,9 +47,11 @@ nav a {
 
 .info {
 
-    padding: 40px;
-    color: cyan;
-
+    font-size: 18px;
+  font-weight: bold;
+     -webkit-text-stroke: 0.7px black;
+  color: white;
+   padding: 60px;
 }
 
 .info h2 {
